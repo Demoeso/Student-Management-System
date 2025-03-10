@@ -1,3 +1,3 @@
 # Student-Management-System
-Written in C
+Finished Project
 All Rights Reserved
